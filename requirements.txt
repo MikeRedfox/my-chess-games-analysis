@@ -2,7 +2,7 @@ numpy
 pandas
 plotly
 requests
-streamlit0
+streamlit
 streamlit_lottie
 streamlit_option_menu
 statsmodels
